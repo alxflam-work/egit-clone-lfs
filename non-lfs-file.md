@@ -1,0 +1,1 @@
+*Only txt files are configured for LFS in this example!*
