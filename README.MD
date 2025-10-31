@@ -1,0 +1,1 @@
+Minimal reproducible example for https://github.com/eclipse-jgit/jgit/issues/228
